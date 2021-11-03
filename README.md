@@ -22,7 +22,7 @@ Hi there, I'm **Shubhi Agarwal**, a **Compititive Programmar** ( Ranked 9th glob
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via agarwalshubhi38@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae Resume(https://drive.google.com/file/d/1FPDBrE3nJdnd6slE7Ug4Hdp-Tik1-Cka/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae Resume] (https://bit.ly/2Ye14bH) to get more info.
 
 
 **Languages and Tools:**  
